@@ -103,6 +103,38 @@ Es wurde eine Dockingstation als Test für den Betrieb mit einem Notebook bescha
 
 ## Aufgabe 3 (25 Punkte)
 
+!!! abstract "Situation"
+
+    Auch zum Netzwerk sollen Modernisierungen und Anpassungen bei Vergrößerung des Unternehmens geplant werden. Da die Mitarbeiter:innen zunehmend auch aus dem Home-Office arbeiten können sollen sind Planungen hierfür anzustellen. Auch die Erweiterung des Unternehmens führt zu Änderungen und Ergänzungen für den sicheren Datenaustausch zwischen den beiden Standorten.
+
+### Aufgabenteil 1 | 3 Punkte
+
+Für die Planung der laufenden Kosten sollen die Energiekosten eines File-Servers berechnet werden. Ihnen liegen folgende Daten vor: Der Server läuft an 6 Arbeitstagen in der Woche im Betriebsmodus mit einem Verbrauch von 400 W, an einem Ruhetag im Energiesparmodus mit 100 W. Der zu berücksichtigende Zeitraum umfasst 25 Arbeitstage und 5 Ruhetage. Der Energiepreis für die *Textilvertrieb Köhler GmbH* beträgt 0,32 €/kWh.
+
+### Aufgabenteil 2 | 1 Punkt
+
+Welches Übertragungsmedium wählen Sie bei der strukturierten Verkabelung, wenn in dem Logistikbüro der Drucker mit dem Switch im selben Raum verbunden werden soll?
+
+### Aufgabenteil 3 | 4 Punkte
+
+!!! quote "Edge Computing"
+
+    Edge computing involves moving computer applications, data and services away from central nodes (data centers). The term refers to the fact that in edge computing the relevant operations take place at the "edge" of the network, i.e. in the network periphery. These operations can mean the collection, aggregation, processing and analysis of data. The calculations are performed decentrally where the data actually originates or is collected.
+    
+    The goal is to ensure that data streams are at least partially processed on site (e.g., directly at the end device or within a factory) in a way that conserves resources. In the near past, the majority of calculations were carried out in data centers. However, the physical distance alone causes delays in data transmission that prevent short response times. For a millisecond transmission, for example, the data center should be no more than 100 kilometers from where the data originates. By physically moving the point of computation closer to the origin of the data, response times can be significantly reduced. At the same time, data relevant to higher-level, global insights can be pre-filtered and transmitted to the data center only in the form actually required, making more efficient use of the available bandwidth. 
+
+Welches sind die oben genannten Vorteile von Edge Computing?
+
+### Aufgabenteil 4 | 3 Punkte
+
+Bei der Einrichtung eines Netzwerkbereichs für Lagerroboter soll ein IP-Adressbereich vergeben werden. Dieser wird beim DHCP-Server für das Einbinden der Clients im Netzwerk eingestellt. Welcher IP-Adresspool wird eingestellt, wenn das Netzwerk die Adresse 192.168.39.20/23 enthält? Welche Adresse erhält das Gateway, wenn es die erste Adresse im Netz sein soll?
+
+### Aufgabenteil 5 | 1 Punkt
+
+Welcher Dienst ist im Netzwerk für die Namensauflösung der Webseiten zuständig?
+
+### Aufgabenteil 6 | 
+
 ---
 
 ## Aufgabe 4 (25 Punkte)
