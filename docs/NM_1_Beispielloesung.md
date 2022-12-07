@@ -1,5 +1,5 @@
 ---
-password: NM1
+password: moinWelt
 ---
 
 ## Test

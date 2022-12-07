@@ -131,7 +131,7 @@ Bei der Einrichtung eines Netzwerkbereichs für Lagerroboter soll ein IP-Adressb
 
 ### Aufgabenteil 5 | 1 Punkt
 
-Welcher Dienst ist im Netzwerk für die Namensauflösung der Webseiten zuständig?
+Welcher Dienst ist im Netzwerk für die Namensauflösung der Webseiten zuständig? Geben Sie die Abkürzung und den ausgeschriebenen Namen an.
 
 ### Aufgabenteil 6 | 
 
@@ -150,6 +150,10 @@ Welcher Dienst ist im Netzwerk für die Namensauflösung der Webseiten zuständi
 ## Aufgabe 6 (25 Punkte)
 
 ---
+
+!!! success "Fertig?"
+   
+    Wenn Sie alle Aufgaben bearbeitet haben, können Sie mit dem Passwort *moinWelt* die Lösungen freischalten.
 
 {%
    include-markdown "inhalte/lizenzhinweis.md"
