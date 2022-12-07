@@ -1,0 +1,40 @@
+site_name: KIT Prüfungsvorbereitung AP1
+
+theme:
+  name: material
+  language: de
+  font: false
+  favicon: bilder/favicon.png
+  logo: bilder/logo.png
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - include-markdown
+  - encryptcontent:
+        password_button: True
+        password_button_text: '&#128275;'
+        title_prefix: '&#128274; '
+        summary: 'Für den Zugriff auf die Beispiellösung benötigen Sie ein Passwort'
+        placeholder: '________'
+        decryption_failure_message: 'another informational message when decryption fail'
+        encryption_info_message: 'Geben Sie hier das Ihnen mitgeteilte Passwort ein und klicken Sie auf das Schlosssymbol:'
+        input_class: 'md-search__form md-search__input'
+        button_class: 'md-search__icon'
+
+extra_css:
+  - 'extra.css'
+
+use_directory_urls: false
+
+repo_url: https://github.com/herr-nm/MMBbS_KIT_PV1
+
+site_url: https://herr-nm.github.io/MMBbS_KIT_PV1/
+
+nav:
+    - Übersicht: 'index.md'
+    - NM 1 Testprüfung: 'NM_1_Testpruefung.md'
+    - NM 1 Beispielloesung: 'NM_1_Beispielloesung.md'
